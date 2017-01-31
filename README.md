@@ -12,7 +12,7 @@ npm i --save https://github.com/timothyerwin/instagram-scraper.git
 ## USAGE
 
 ```javascript
-  import instagram from 'instagram-scraper';
+  const instagram = require('instagram-scraper');
 
   instagram('someuser').media().then((results) => {
     console.log(results);
