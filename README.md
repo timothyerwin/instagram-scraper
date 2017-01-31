@@ -4,10 +4,15 @@ ES6, Fetch, Promise, JSON version forked from this nice repo:
 
 https://github.com/rarcega/instagram-scraper-node
 
+## INSTALL
+```sh
+npm i --save git+https://github.com/timothyerwin/instagram-scraper.git
+```
+
 ## USAGE
 
 ```javascript
-  import instagram from './instagram';
+  import instagram from 'instagram-scraper';
 
   instagram('someuser').media().then((results) => {
     console.log(results);
