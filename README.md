@@ -6,7 +6,7 @@ https://github.com/rarcega/instagram-scraper-node
 
 ## INSTALL
 ```sh
-npm i --save git+https://github.com/timothyerwin/instagram-scraper.git
+npm i --save https://github.com/timothyerwin/instagram-scraper.git
 ```
 
 ## USAGE
