@@ -1,0 +1,29 @@
+{
+  "name": "instagram-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "instagram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyerwin/instagram-scraper.git"
+  },
+  "keywords": [
+    "instagram",
+    "fetch",
+    "es6",
+    "javascript",
+    "node"
+  ],
+  "author": "Tim Erwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timothyerwin/instagram-scraper/issues"
+  },
+  "homepage": "https://github.com/timothyerwin/instagram-scraper#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
